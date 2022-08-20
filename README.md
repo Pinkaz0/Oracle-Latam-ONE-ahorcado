@@ -1,1 +1,2 @@
-# Oracle-Latam-ONE-ahorcado
+# Oracle-Latam-ONE
+Juego del ahorcado - Alura Challenges ONE
